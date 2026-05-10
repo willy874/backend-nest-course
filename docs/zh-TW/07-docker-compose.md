@@ -1,4 +1,4 @@
-> 🌏 [English](./07-docker-compose.md) | **繁體中文**
+> 🌏 [English](../en-US/07-docker-compose.md) | **繁體中文**
 
 # 07 · Docker Compose 與 PostgreSQL
 

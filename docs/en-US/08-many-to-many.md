@@ -1,4 +1,4 @@
-> 🌏 **English** | [繁體中文](./08-many-to-many.zh-TW.md)
+> 🌏 **English** | [繁體中文](../zh-TW/08-many-to-many.md)
 
 # 08 · Many-to-Many: todos × categories
 

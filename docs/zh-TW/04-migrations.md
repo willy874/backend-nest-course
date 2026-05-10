@@ -1,4 +1,4 @@
-> 🌏 [English](./04-migrations.md) | **繁體中文**
+> 🌏 [English](../en-US/04-migrations.md) | **繁體中文**
 
 # 04 · Migrations 與 Schema 演進
 

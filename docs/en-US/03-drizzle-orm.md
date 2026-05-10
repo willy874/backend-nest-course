@@ -1,4 +1,4 @@
-> 🌏 **English** | [繁體中文](./03-drizzle-orm.zh-TW.md)
+> 🌏 **English** | [繁體中文](../zh-TW/03-drizzle-orm.md)
 
 # 03 · Drizzle ORM
 

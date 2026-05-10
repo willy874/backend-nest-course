@@ -1,4 +1,4 @@
-> 🌏 **English** | [繁體中文](./01-architecture.zh-TW.md)
+> 🌏 **English** | [繁體中文](../zh-TW/01-architecture.md)
 
 # 01 · Architecture & Layered Design
 

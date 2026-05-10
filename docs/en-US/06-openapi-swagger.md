@@ -1,4 +1,4 @@
-> 🌏 **English** | [繁體中文](./06-openapi-swagger.zh-TW.md)
+> 🌏 **English** | [繁體中文](../zh-TW/06-openapi-swagger.md)
 
 # 06 · OpenAPI & Swagger
 

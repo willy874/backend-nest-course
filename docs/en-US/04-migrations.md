@@ -1,4 +1,4 @@
-> 🌏 **English** | [繁體中文](./04-migrations.zh-TW.md)
+> 🌏 **English** | [繁體中文](../zh-TW/04-migrations.md)
 
 # 04 · Migrations & Schema Evolution
 

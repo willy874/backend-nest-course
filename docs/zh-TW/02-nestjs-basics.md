@@ -1,4 +1,4 @@
-> 🌏 [English](./02-nestjs-basics.md) | **繁體中文**
+> 🌏 [English](../en-US/02-nestjs-basics.md) | **繁體中文**
 
 # 02 · NestJS 基礎
 

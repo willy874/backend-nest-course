@@ -22,15 +22,15 @@ README 是高層次導覽,深入內容放在 [`docs/`](./docs):
 
 | # | 主題 | 檔案 |
 |---|---|---|
-| 01 | 架構與分層設計 | [docs/01-architecture.zh-TW.md](./docs/01-architecture.zh-TW.md) |
-| 02 | NestJS 基礎(Module / Controller / Service / DI) | [docs/02-nestjs-basics.zh-TW.md](./docs/02-nestjs-basics.zh-TW.md) |
-| 03 | Drizzle ORM(schema、query、relations) | [docs/03-drizzle-orm.zh-TW.md](./docs/03-drizzle-orm.zh-TW.md) |
-| 04 | drizzle-kit 的 migration 流程 | [docs/04-migrations.zh-TW.md](./docs/04-migrations.zh-TW.md) |
-| 05 | Zod 驗證 + nestjs-zod | [docs/05-zod-validation.zh-TW.md](./docs/05-zod-validation.zh-TW.md) |
-| 06 | OpenAPI / Swagger 整合 | [docs/06-openapi-swagger.zh-TW.md](./docs/06-openapi-swagger.zh-TW.md) |
-| 07 | Docker Compose 與 PostgreSQL | [docs/07-docker-compose.zh-TW.md](./docs/07-docker-compose.zh-TW.md) |
-| 08 | 多對多: todos × categories | [docs/08-many-to-many.zh-TW.md](./docs/08-many-to-many.zh-TW.md) |
-| 09 | Models layer(schema↔app 中介層) | [docs/09-models-layer.zh-TW.md](./docs/09-models-layer.zh-TW.md) |
+| 01 | 架構與分層設計 | [docs/01-architecture.md](./docs/zh-TW/01-architecture.md) |
+| 02 | NestJS 基礎(Module / Controller / Service / DI) | [docs/02-nestjs-basics.md](./docs/zh-TW/02-nestjs-basics.md) |
+| 03 | Drizzle ORM(schema、query、relations) | [docs/03-drizzle-orm.md](./docs/zh-TW/03-drizzle-orm.md) |
+| 04 | drizzle-kit 的 migration 流程 | [docs/04-migrations.md](./docs/zh-TW/04-migrations.md) |
+| 05 | Zod 驗證 + nestjs-zod | [docs/05-zod-validation.md](./docs/zh-TW/05-zod-validation.md) |
+| 06 | OpenAPI / Swagger 整合 | [docs/06-openapi-swagger.md](./docs/zh-TW/06-openapi-swagger.md) |
+| 07 | Docker Compose 與 PostgreSQL | [docs/07-docker-compose.md](./docs/zh-TW/07-docker-compose.md) |
+| 08 | 多對多: todos × categories | [docs/08-many-to-many.md](./docs/zh-TW/08-many-to-many.md) |
+| 09 | Models layer(schema↔app 中介層) | [docs/09-models-layer.md](./docs/zh-TW/09-models-layer.md) |
 
 ---
 
@@ -65,7 +65,7 @@ src/
 └── common/                    # 過濾器等 cross-cutting
 ```
 
-**為什麼這樣分層** 在 [docs/01-architecture.zh-TW.md](./docs/01-architecture.zh-TW.md)。本專案最特別的是 **models layer**,詳見 [docs/09-models-layer.zh-TW.md](./docs/09-models-layer.zh-TW.md)。
+**為什麼這樣分層** 在 [docs/01-architecture.md](./docs/zh-TW/01-architecture.md)。本專案最特別的是 **models layer**,詳見 [docs/09-models-layer.md](./docs/zh-TW/09-models-layer.md)。
 
 ---
 
@@ -146,7 +146,7 @@ created_at
 updated_at
 ```
 
-詳見 [docs/08-many-to-many.zh-TW.md](./docs/08-many-to-many.zh-TW.md)。
+詳見 [docs/08-many-to-many.md](./docs/zh-TW/08-many-to-many.md)。
 
 ---
 

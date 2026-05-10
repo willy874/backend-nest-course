@@ -1,4 +1,4 @@
-> 🌏 [English](./05-zod-validation.md) | **繁體中文**
+> 🌏 [English](../en-US/05-zod-validation.md) | **繁體中文**
 
 # 05 · Zod 驗證
 

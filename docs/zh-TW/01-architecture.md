@@ -1,4 +1,4 @@
-> 🌏 [English](./01-architecture.md) | **繁體中文**
+> 🌏 [English](../en-US/01-architecture.md) | **繁體中文**
 
 # 01 · 架構與分層設計
 
@@ -97,7 +97,7 @@ controllers  →  services  →  repositories  →  schemas
 
 正確做法:**Controller 把 DTO 解開、轉成內部資料(model 或 plain object),才丟進 service**。Service 永遠只認得內部資料形狀。
 
-這也是為什麼本專案有 `models/` 這層 — 它是 Service 的「正式語言」,見 [docs/09](./09-models-layer.zh-TW.md)。
+這也是為什麼本專案有 `models/` 這層 — 它是 Service 的「正式語言」,見 [docs/09](./09-models-layer.md)。
 
 ---
 

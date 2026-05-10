@@ -1,4 +1,4 @@
-> 🌏 [English](./09-models-layer.md) | **繁體中文**
+> 🌏 [English](../en-US/09-models-layer.md) | **繁體中文**
 
 # 09 · Models Layer
 

@@ -22,15 +22,15 @@ The README is the high-level tour. Deep dives live in [`docs/`](./docs):
 
 | # | Topic | File |
 |---|---|---|
-| 01 | Architecture & layered design | [docs/01-architecture.md](./docs/01-architecture.md) |
-| 02 | NestJS basics (Module / Controller / Service / DI) | [docs/02-nestjs-basics.md](./docs/02-nestjs-basics.md) |
-| 03 | Drizzle ORM (schema, query, relations) | [docs/03-drizzle-orm.md](./docs/03-drizzle-orm.md) |
-| 04 | Migrations with drizzle-kit | [docs/04-migrations.md](./docs/04-migrations.md) |
-| 05 | Zod validation + nestjs-zod | [docs/05-zod-validation.md](./docs/05-zod-validation.md) |
-| 06 | OpenAPI / Swagger integration | [docs/06-openapi-swagger.md](./docs/06-openapi-swagger.md) |
-| 07 | Docker Compose & PostgreSQL | [docs/07-docker-compose.md](./docs/07-docker-compose.md) |
-| 08 | Many-to-many: todos × categories | [docs/08-many-to-many.md](./docs/08-many-to-many.md) |
-| 09 | Models layer (schema↔app intermediary) | [docs/09-models-layer.md](./docs/09-models-layer.md) |
+| 01 | Architecture & layered design | [docs/01-architecture.md](./docs/en-US/01-architecture.md) |
+| 02 | NestJS basics (Module / Controller / Service / DI) | [docs/02-nestjs-basics.md](./docs/en-US/02-nestjs-basics.md) |
+| 03 | Drizzle ORM (schema, query, relations) | [docs/03-drizzle-orm.md](./docs/en-US/03-drizzle-orm.md) |
+| 04 | Migrations with drizzle-kit | [docs/04-migrations.md](./docs/en-US/04-migrations.md) |
+| 05 | Zod validation + nestjs-zod | [docs/05-zod-validation.md](./docs/en-US/05-zod-validation.md) |
+| 06 | OpenAPI / Swagger integration | [docs/06-openapi-swagger.md](./docs/en-US/06-openapi-swagger.md) |
+| 07 | Docker Compose & PostgreSQL | [docs/07-docker-compose.md](./docs/en-US/07-docker-compose.md) |
+| 08 | Many-to-many: todos × categories | [docs/08-many-to-many.md](./docs/en-US/08-many-to-many.md) |
+| 09 | Models layer (schema↔app intermediary) | [docs/09-models-layer.md](./docs/en-US/09-models-layer.md) |
 
 ---
 
@@ -65,7 +65,7 @@ src/
 └── common/                    # Cross-cutting filters, etc.
 ```
 
-**Why this layering** is explained in [docs/01-architecture.md](./docs/01-architecture.md). The unique part is the **models layer**, see [docs/09-models-layer.md](./docs/09-models-layer.md).
+**Why this layering** is explained in [docs/01-architecture.md](./docs/en-US/01-architecture.md). The unique part is the **models layer**, see [docs/09-models-layer.md](./docs/en-US/09-models-layer.md).
 
 ---
 
@@ -146,7 +146,7 @@ created_at
 updated_at
 ```
 
-Details in [docs/08-many-to-many.md](./docs/08-many-to-many.md).
+Details in [docs/08-many-to-many.md](./docs/en-US/08-many-to-many.md).
 
 ---
 

@@ -1,4 +1,4 @@
-> 🌏 [English](./08-many-to-many.md) | **繁體中文**
+> 🌏 [English](../en-US/08-many-to-many.md) | **繁體中文**
 
 # 08 · 多對多: todos × categories
 
